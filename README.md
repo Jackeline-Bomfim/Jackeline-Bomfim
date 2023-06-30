@@ -2,7 +2,7 @@
 
 ### Me chamo Jackeline Bomfim, seja muito bem vindo(a) ao meu GitHub!
 
-![](image/16144467_5664589.svg) 
+![](image/hello.png) 
 
 ## Sobre mim
 
