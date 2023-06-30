@@ -2,9 +2,7 @@
 
 ### Me chamo Jackeline Bomfim, seja muito bem vindo(a) ao meu GitHub!
 
-
-
-![](file:///C:/Users/kelin/Documents/Readme/image/16144467_5664589.svg)
+![](image/16144467_5664589.svg) 
 
 ## Sobre mim
 
