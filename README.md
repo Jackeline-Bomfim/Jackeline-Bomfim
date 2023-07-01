@@ -14,7 +14,8 @@
 
 - 😄 Pronomes: Ela/Dela
 
-  
+- ⚡ Curiosidade: Fã de Harry Potter
+    
 
 ## Tecnologias e ferramentas
 
