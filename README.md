@@ -1,6 +1,6 @@
 ## Olá  👋
 
-### Me chamo Jackeline Bomfim, seja muito bem vindo(a) ao meu GitHub!
+### Me chamo Jackeline Bomfim, seja muito bem-vindo(a) ao meu GitHub!
 
 ![](image/hello.png) 
 
