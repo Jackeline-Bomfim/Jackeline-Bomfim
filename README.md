@@ -6,9 +6,9 @@
 
 ## Sobre mim
 
-- 🔭 Atualmente estou trabalhando como Analista de suporte.
+- 🔭 Atualmente estou trabalhando como Analista de munitoramento - Bradesco (Kalendae).
 
-- 🌱 Estudando JAVA, com um pouco de conhecimento em Front-End, UX designer e SQL.
+- 🌱 Atualmente estudando Azure.
 
 - 📫 E-mail: jackeline.bomfim644@gmail.com
 
