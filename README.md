@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-- 🔭 Atualmente estou trabalhando como Analista de munitoramento - Kalendae (Bradesco).
+- 🔭 Atualmente estou trabalhando como Analista de processos - Kalendae (Cliente - Bradesco).
 
 - 🌱 Atualmente estudando Azure.
 
