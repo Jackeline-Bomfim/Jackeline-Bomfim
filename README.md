@@ -8,7 +8,7 @@
 
 - 🔭 Atualmente estou trabalhando como Analista de processos - Kalendae (Cliente - Bradesco).
 
-- 🌱 Atualmente estudando Azure.
+- 🌱 Atualmente estudando Machine Learning.
 
 - 📫 E-mail: jackeline.bomfim644@gmail.com
 
