@@ -6,15 +6,15 @@
 
 ## Sobre mim
 
-- 🔭 Atualmente estou trabalhando como Analista de processos - Kalendae (Cliente - Bradesco).
+- 🔭 Estou trabalhando como Analista de processos - Kalendae (Cliente - Bradesco).
 
-- 🌱 Atualmente estudando Machine Learning.
+- 🌱 Atualmente estudando AZ900.
 
 - 📫 E-mail: jackeline.bomfim644@gmail.com
 
 - 😄 Pronomes: Ela/Dela
 
-- ⚡ Curiosidade: Fã de Harry Potter
+- ⚡ Curiosidade: Fã de Harry Potter (moderada)
     
 
 ## Tecnologias e ferramentas
